@@ -1,5 +1,5 @@
 
-# ** check out the App here** 👇
+# **check out the App here** 👇
 https://admiring-jang-8c2f4c.netlify.app/
 
 
